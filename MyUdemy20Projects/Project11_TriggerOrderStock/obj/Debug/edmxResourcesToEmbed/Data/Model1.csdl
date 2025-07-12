@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Db11Project20Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCashRegister">
+    <Key>
+      <PropertyRef Name="CashRegisterId" />
+    </Key>
+    <Property Name="CashRegisterId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Balance" Type="Decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="tblOrder">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductId" Type="Int32" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="UnitPrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TotalPrice" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="tblProduct" Relationship="Self.FK_tblOrder_tblProduct" FromRole="tblOrder" ToRole="tblProduct" />
+  </EntityType>
+  <EntityType Name="tblProcess">
+    <Key>
+      <PropertyRef Name="ProcessId" />
+    </Key>
+    <Property Name="ProcessId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Process" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblProduct">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductPrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ProductStock" Type="Int32" />
+    <Property Name="ProductStatus" Type="Boolean" />
+    <NavigationProperty Name="tblOrder" Relationship="Self.FK_tblOrder_tblProduct" FromRole="tblProduct" ToRole="tblOrder" />
+  </EntityType>
+  <Association Name="FK_tblOrder_tblProduct">
+    <End Role="tblProduct" Type="Self.tblProduct" Multiplicity="0..1" />
+    <End Role="tblOrder" Type="Self.tblOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProduct">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="tblOrder">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Db11Project20Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCashRegister" EntityType="Self.tblCashRegister" />
+    <EntitySet Name="tblOrder" EntityType="Self.tblOrder" />
+    <EntitySet Name="tblProcess" EntityType="Self.tblProcess" />
+    <EntitySet Name="tblProduct" EntityType="Self.tblProduct" />
+    <AssociationSet Name="FK_tblOrder_tblProduct" Association="Self.FK_tblOrder_tblProduct">
+      <End Role="tblProduct" EntitySet="tblProduct" />
+      <End Role="tblOrder" EntitySet="tblOrder" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

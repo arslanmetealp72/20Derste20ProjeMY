@@ -1,0 +1,13 @@
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\bin\Debug\Project1_AdonetCustomerProject.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\bin\Debug\Project1_AdonetCustomerProject.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\bin\Debug\Project1_AdonetCustomerProject.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.csproj.AssemblyReference.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.Properties.Resources.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.csproj.GenerateResource.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.frmCity.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.frmMap.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project1_AdonetCustomerProject\obj\Debug\Project1_AdonetCustomerProject.frmCustomer.resources

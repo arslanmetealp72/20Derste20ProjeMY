@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "Project6_ApiWeather\\Project6_ApiWeather.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Project7_ApiWeatherConsume\\Project7_ApiWeatherConsume.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.AssemblyReference.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.Form1.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.Properties.Resources.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.GenerateResource.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.CoreCompileInputs.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.dll
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.xml
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project3_EntityFrameworkStatistics\obj\Debug\Project3.255AB040.Up2Date

@@ -1,0 +1,40 @@
+﻿create table teams
+(
+TeamId int primary key identity(1,1),
+TeamName nvarchar(100),
+TeamCountry nvarchar(100)
+
+)
+
+create table teamDetails
+(
+TeamDetailId int identity(1,1),
+TeamId int unique,
+TeamColor nvarchar(50),
+TeamCity nvarchar(50),
+TeamValue decimal(18,2)
+Foreign key (TeamId) references teams(TeamId)
+)
+
+create table players
+(
+PlayerId int primary key identity(1,1),
+PlayerName nvarchar(50),
+TeamId int,
+foreign key (TeamId) references teams(TeamId)
+)
+
+create table sponsors
+(
+SponsorId int primary key identity(1,1),
+SponsorName nvarchar(50)
+)
+
+create table teamSponsors
+(
+TeamId int,
+SponsorId int
+primary key(TeamId,SponsorId),
+foreign key (TeamId) References teams(TeamId),
+foreign key (SponsorId) references sponsors(SponsorId)
+)

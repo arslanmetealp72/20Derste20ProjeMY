@@ -1,0 +1,14 @@
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\bin\Debug\Project8_RapidApiCurrency.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\bin\Debug\Project8_RapidApiCurrency.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\bin\Debug\Project8_RapidApiCurrency.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.csproj.AssemblyReference.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.Form1.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.Properties.Resources.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.csproj.GenerateResource.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.csproj.CoreCompileInputs.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8_RapidApiCurrency.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project8_RapidApiCurrency\obj\Debug\Project8.7C3F1BC4.Up2Date

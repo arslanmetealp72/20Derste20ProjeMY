@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "WeatherCityList",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "CreateWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "Project6_ApiWeather.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "DeleteWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "UpdateWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "Project6_ApiWeather.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "GetWeatherCityById",
+    "RelativePath": "api/Weathers/GetWeatherCityById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "MaxTempCity",
+    "RelativePath": "api/Weathers/MaxTempCity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controller.Weathers",
+    "Method": "TotalCityCount",
+    "RelativePath": "api/Weathers/TotalCityCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

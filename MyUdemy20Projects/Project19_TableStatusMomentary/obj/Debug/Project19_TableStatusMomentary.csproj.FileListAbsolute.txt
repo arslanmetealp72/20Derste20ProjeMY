@@ -1,0 +1,16 @@
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.AssemblyReference.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.Form1.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.Properties.Resources.resources
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.GenerateResource.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.CoreCompileInputs.cache
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.exe.config
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\EntityFramework.dll
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\EntityFramework.xml
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project1.860E3761.Up2Date
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.exe
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.pdb
+C:\Users\arslanmetealp72\source\repos\MyUdemy20Projects\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.exe.config
